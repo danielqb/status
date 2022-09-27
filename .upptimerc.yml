@@ -3,29 +3,63 @@ owner: danielqb # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: DIAN - Portal
+    url: https://www.dian.gov.co/
+  - name: DIAN - Muisca
+    url: https://muisca.dian.gov.co/
+  - name: DIAN - Agendamiento
+    url: https://agendamientodigiturno.dian.gov.co/
+  - name: DIAN - Compilación Jurídica
+    url: https://normograma.dian.gov.co/dian/
+  - name: Bancolombia - Portal
+    url: https://www.bancolombia.com/
+  - name: Bancolombia - Personas
+    url: https://sucursalpersonas.transaccionesbancolombia.com/
+  - name: Bancolombia - Empresas
+    url: https://sucursalempresas.transaccionesbancolombia.com/
+  - name: Bancolombia - Pyme
+    url: https://sucursalvirtualpyme.bancolombia.com/#/login
+  - name: CCB - Portal
+    url: https://www.ccb.org.co/
+  - name: CCB - Transacciones
+    url: https://linea.ccb.org.co/apprenovaciones/index.html#!/
+  - name: Certicamara - Portal
+    url: https://certicamara.com/
+  - name: Certicamara - Sobreflex
+    url: https://sobreflex.certicamara.com/sobreflex/IActualizarDatos.aspx
+  - name: GovCo - ColombiaCompra
+    url: https://www.colombiacompra.gov.co/
+  - name: GovCo - Contratos
+    url: https://www.contratos.gov.co/
+  - name: GovCo - Secop
+    url: https://secop.gov.co/
+  - name: Minciencia - Portal
+    url: https://minciencias.gov.co/
+  - name: Minciencia - Scienti
+    url: https://scienti.minciencias.gov.co/
+  - name: Minciencia - Projectos
+    url: https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/
+  - name: PSE - Portal
+    url: https://www.pse.com.co/persona
+  - name: PSE - Pagos
+    url: https://portal.psepagos.com.co/inicio
+  - name: Las2orillas
+    url: https://www.las2orillas.co/
+  - name: Mercadolibre
+    url: https://www.mercadolibre.com.co/
+  - name: Wplay
+    url: https://www.wplay.co/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "**Status* esta paguina predente analizar el estado de varios sitios de interes genera."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**ESTADO** paginas Colombia."
+  introMessage: Estado del las paginas de interes de **Colombia** 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
