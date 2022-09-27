@@ -23,22 +23,12 @@ sites:
     url: https://www.ccb.org.co/
   - name: CCB - Transacciones
     url: https://linea.ccb.org.co/apprenovaciones/index.html#!/
-  - name: Certicamara - Portal
-    url: https://certicamara.com/
   - name: Certicamara - Sobreflex
     url: https://sobreflex.certicamara.com/sobreflex/IActualizarDatos.aspx
   - name: GovCo - ColombiaCompra
     url: https://www.colombiacompra.gov.co/
-  - name: GovCo - Contratos
-    url: https://www.contratos.gov.co/
-  - name: GovCo - Secop
-    url: https://secop.gov.co/
   - name: Minciencia - Portal
     url: https://minciencias.gov.co/
-  - name: Minciencia - Scienti
-    url: https://scienti.minciencias.gov.co/
-  - name: Minciencia - Projectos
-    url: https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/
   - name: PSE - Portal
     url: https://www.pse.com.co/persona
   - name: PSE - Pagos
