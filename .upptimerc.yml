@@ -5,14 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: DIAN - Portal
     url: https://www.dian.gov.co/
+    icon: https://www.dian.gov.co/imagenes/favicon.ico
   - name: DIAN - Muisca
     url: https://muisca.dian.gov.co/
+    icon: https://muisca.dian.gov.co/favicon.ico
   - name: DIAN - Agendamiento
     url: https://agendamientodigiturno.dian.gov.co/
+    icon: https://agendamientodigiturno.dian.gov.co/favicon.ico
   - name: DIAN - Compilación Jurídica
     url: https://normograma.dian.gov.co/dian/
   - name: Bancolombia - Portal
     url: https://www.bancolombia.com/
+    icon: https://www.bancolombia.com/contenthandler/!ut/p/digest!f4T4EHAw18C9yOrLkKCojQ/dav/fs-type1/themes/PersonasTheme/images/favicon.ico
   - name: Bancolombia - Personas
     url: https://sucursalpersonas.transaccionesbancolombia.com/
   - name: Bancolombia - Empresas
@@ -39,6 +43,15 @@ sites:
     url: https://www.mercadolibre.com.co/
   - name: Wplay
     url: https://www.wplay.co/
+    
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 status-website:
   # cname: demo.upptime.js.org
@@ -46,10 +59,75 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "**ESTADO** paginas Colombia."
-  introMessage: Estado del las paginas de interes de **Colombia** 
+  introMessage: Estado del las paginas de interes de **Colombia**
+#   favicon: https://example.com/favicon.png
+#   faviconSvg: https://example.com/logo.svg
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: Reporte de incidente #$NUMBER →
+  activeIncidentSummary: Abierto en $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del Incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Fijado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto en
+  incidentClosedAt: Cerrado
+  incidentViewOnGitHub: Ver y suscribirse en Github
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES con publicación $POSTS
+  liveStatus: Estado en vivo
+  overallUptime: Tiempo de actividad general: $UPTIME
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: Tiempo de respuesta promedio: $TIMEms
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (MS)
+  up: Arriba
+  down: Abajo
+  degraded: Degradado
+  ms: milisegundo
+  loading: Cargando
+  navGitHub: Github
+  footer: Esta página es [código abierto] ($REPO), alimentado por [upptime] (https://upptime.js.org)
+  rateLimitExceededTitle: Excede el límite de velocidad
+  rateLimitExceededIntro: Ha superado la cantidad de solicitudes que puede hacer en una hora, por lo que tendrá que esperar antes de acceder nuevamente a este sitio web. Alternativamente, puede agregar un token de acceso personal GitHub para continuar utilizando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite cada dirección IP 60 solicitudes por hora, que ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restaurará el límite de su dirección IP. Alternativamente, puede agregar su token de acceso personal GitHub, que le brinda 5,000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda a generar un token de acceso personal
+  rateLimitExceededHasSet: Tiene un conjunto de token de acceso personal.
+  rateLimitExceededRemoveToken: Retirar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copie y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Se produjo un error al tratar de obtener los últimos detalles de estado.
+  errorText: Puedes intentarlo de nuevo en unos momentos.
+  errorHome: Ir a la pagina principal
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento Programado
+  scheduledMaintenanceSummaryStarted: Comenzó en $DATE por $DURATION minutos de duración
+  scheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos de duración
+  startedAt: Empezó a las
+  startsAt: Empieza a
+  duration: Duración
+  durationMin: $DURATION Minutos de duración
+  incidentCompleted: Terminado
+  incidentScheduled: Programado
