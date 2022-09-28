@@ -76,58 +76,58 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 i18n:
-  activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas están operativos
-  incidentReport: Reporte de incidente #$NUMBER →
-  activeIncidentSummary: Abierto en $DATE con $POSTS publicaciones
-  incidentTitle: Detalles del Incidente $NUMBER
-  incidentDetails: Detalles del incidente
-  incidentFixed: Fijado
-  incidentOngoing: En curso
-  incidentOpenedAt: Abierto en
-  incidentClosedAt: Cerrado
-  incidentViewOnGitHub: Ver y suscribirse en Github
-  incidentCommentSummary: Publicado el $DATE por $AUTHOR
-  incidentBack: ← Volver a todos los incidentes
-  pastIncidents: Incidentes pasados
-  pastIncidentsResolved: Resuelto en $MINUTES con publicación $POSTS
-  liveStatus: Estado en vivo
-  overallUptime: Tiempo de actividad general: $UPTIME
-  overallUptimeTitle: Tiempo de actividad general
-  averageResponseTime: Tiempo de respuesta promedio: $TIMEms
-  averageResponseTimeTitle: Respuesta promedio
-  sevelDayResponseTime: Tiempo de respuesta de 7 días
-  responseTimeMs: Tiempo de respuesta (MS)
-  up: Arriba
-  down: Abajo
-  degraded: Degradado
-  ms: milisegundo
-  loading: Cargando
-  navGitHub: Github
-  footer: Esta página es [código abierto] ($REPO), alimentado por [upptime] (https://upptime.js.org)
-  rateLimitExceededTitle: Excede el límite de velocidad
-  rateLimitExceededIntro: Ha superado la cantidad de solicitudes que puede hacer en una hora, por lo que tendrá que esperar antes de acceder nuevamente a este sitio web. Alternativamente, puede agregar un token de acceso personal GitHub para continuar utilizando este sitio web.
-  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
-  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite cada dirección IP 60 solicitudes por hora, que ha consumido.
-  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
-  rateLimitExceededErrorFix: Puede esperar otra hora y se restaurará el límite de su dirección IP. Alternativamente, puede agregar su token de acceso personal GitHub, que le brinda 5,000 solicitudes adicionales por hora.
-  rateLimitExceededGeneratePAT: Aprenda a generar un token de acceso personal
-  rateLimitExceededHasSet: Tiene un conjunto de token de acceso personal.
-  rateLimitExceededRemoveToken: Retirar token
-  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
-  rateLimitExceededCopyPastePAT: Copie y pega tu token
-  rateLimitExceededSaveToken: Guardar token
-  errorTitle: Ocurrió un error
-  errorIntro: Se produjo un error al tratar de obtener los últimos detalles de estado.
-  errorText: Puedes intentarlo de nuevo en unos momentos.
-  errorHome: Ir a la pagina principal
-  pastScheduledMaintenance: Mantenimiento programado pasado
-  scheduledMaintenance: Mantenimiento Programado
-  scheduledMaintenanceSummaryStarted: Comenzó en $DATE por $DURATION minutos de duración
-  scheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos de duración
-  startedAt: Empezó a las
-  startsAt: Empieza a
-  duration: Duración
-  durationMin: $DURATION Minutos de duración
-  incidentCompleted: Terminado
-  incidentScheduled: Programado
+  activeIncidents: "Incidentes activos"
+  allSystemsOperational: "Todos los sistemas están operativos"
+  incidentReport: "Reporte de incidente #$NUMBER →"
+  activeIncidentSummary: "Abierto en $DATE con $POSTS publicaciones"
+  incidentTitle: "Detalles del Incidente $NUMBER"
+  incidentDetails: "Detalles del incidente"
+  incidentFixed: "Fijado"
+  incidentOngoing: "En curso"
+  incidentOpenedAt: "Abierto en"
+  incidentClosedAt: "Cerrado"
+  incidentViewOnGitHub: "Ver y suscribirse en Github"
+  incidentCommentSummary: "Publicado el $DATE por $AUTHOR"
+  incidentBack: "← Volver a todos los incidentes"
+  pastIncidents: "Incidentes pasados"
+  pastIncidentsResolved: "Resuelto en $MINUTES con publicación $POSTS"
+  liveStatus: "Estado en vivo"
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: "Tiempo de actividad general"
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: "Respuesta promedio"
+  sevelDayResponseTime: "Tiempo de respuesta de 7 días"
+  responseTimeMs: "Tiempo de respuesta (MS)"
+  up: "Arriba"
+  down: "Abajo"
+  degraded: "Degradado"
+  ms: "milisegundo"
+  loading: "Cargando"
+  navGitHub: "Github"
+  footer: "Esta página es [código abierto] ($REPO), alimentado por [upptime] (https://upptime.js.org)"
+  rateLimitExceededTitle: "Excede el límite de velocidad"
+  rateLimitExceededIntro: "Ha superado la cantidad de solicitudes que puede hacer en una hora, por lo que tendrá que esperar antes de acceder nuevamente a este sitio web. Alternativamente, puede agregar un token de acceso personal GitHub para continuar utilizando este sitio web."
+  rateLimitExceededWhatDoesErrorMean: "¿Qué significa este error?"
+  rateLimitExceededErrorMeaning: "Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite cada dirección IP 60 solicitudes por hora, que ha consumido."
+  rateLimitExceededErrorHowCanFix: "¿Cómo puedo arreglarlo?"
+  rateLimitExceededErrorFix: "Puede esperar otra hora y se restaurará el límite de su dirección IP. Alternativamente, puede agregar su token de acceso personal GitHub, que le brinda 5,000 solicitudes adicionales por hora."
+  rateLimitExceededGeneratePAT: "Aprenda a generar un token de acceso personal"
+  rateLimitExceededHasSet: "Tiene un conjunto de token de acceso personal."
+  rateLimitExceededRemoveToken: "Retirar token"
+  rateLimitExceededGitHubPAT: "Token de acceso personal de GitHub"
+  rateLimitExceededCopyPastePAT: "Copie y pega tu token"
+  rateLimitExceededSaveToken: "Guardar token"
+  errorTitle: "Ocurrió un error"
+  errorIntro: "Se produjo un error al tratar de obtener los últimos detalles de estado."
+  errorText: "Puedes intentarlo de nuevo en unos momentos."
+  errorHome: "Ir a la pagina principal"
+  pastScheduledMaintenance: "Mantenimiento programado pasado"
+  scheduledMaintenance: "Mantenimiento Programado"
+  scheduledMaintenanceSummaryStarted: "Comenzó en $DATE por $DURATION minutos de duración"
+  scheduledMaintenanceSummaryStarts: "Comienza en $DATE por $DURATION minutos de duración"
+  startedAt: "Empezó a las"
+  startsAt: "Empieza a"
+  duration: "Duración"
+  durationMin: "$DURATION Minutos de duración"
+  incidentCompleted: "Terminado"
+  incidentScheduled: "Programado"
