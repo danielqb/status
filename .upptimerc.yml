@@ -52,6 +52,10 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
+    
+
+  - name: test1
+    url: https://quarterbacksystems.com/en_US/page/status
 
 status-website:
   # cname: demo.upptime.js.org
