@@ -94,7 +94,7 @@ i18n:
   incidentCommentSummary: "Publicado el $DATE por $AUTHOR"
   incidentBack: "← Volver a todos los incidentes"
   pastIncidents: "Incidentes pasados"
-  pastIncidentsResolved: "Resuelto en $MINUTES con publicación $POSTS"
+  pastIncidentsResolved: "Resuelto en $MINUTES minutos con $POSTS publicaciones"
   liveStatus: "Estado en vivo"
   overallUptime: "Tiempo de actividad general: $UPTIME"
   overallUptimeTitle: "Tiempo de actividad general"
