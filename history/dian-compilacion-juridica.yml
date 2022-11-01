@@ -1,7 +1,7 @@
 url: https://normograma.dian.gov.co/dian/
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2022-10-31T23:13:08.754Z
+status: down
+code: 404
+responseTime: 347
+lastUpdated: 2022-11-01T02:37:25.682Z
 startTime: Tue Sep 27 2022 02:54:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
