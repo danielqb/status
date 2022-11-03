@@ -342,9 +342,9 @@
     "url": "https://www.wplay.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wplay.co.ico",
     "slug": "wplay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -353,7 +353,9 @@
     "timeWeek": 198,
     "timeMonth": 163,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   },
   {
     "name": "Google DNS 1",
@@ -397,18 +399,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
     "status": "down",
-    "uptime": "18.40%",
+    "uptime": "18.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "6.74%",
-    "uptimeMonth": "7.34%",
-    "uptimeYear": "18.40%",
+    "uptimeMonth": "7.13%",
+    "uptimeYear": "18.37%",
     "time": 1228,
     "timeDay": 230,
     "timeWeek": 1690,
     "timeMonth": 1337,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2022-11-03": 106,
+      "2022-11-03": 198,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
