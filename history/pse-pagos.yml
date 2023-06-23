@@ -1,7 +1,7 @@
 url: https://portal.psepagos.com.co/inicio
-status: down
-code: 503
-responseTime: 15196
-lastUpdated: 2023-06-23T05:02:08.306Z
+status: up
+code: 200
+responseTime: 547
+lastUpdated: 2023-06-23T05:24:07.696Z
 startTime: Tue Sep 27 2022 02:55:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
