@@ -1,7 +1,7 @@
 url: https://quarterbacksystems.com/en_US/page/status
-status: up
-code: 200
-responseTime: 1678
-lastUpdated: 2023-09-25T23:08:50.944Z
+status: down
+code: 503
+responseTime: 4387
+lastUpdated: 2023-09-26T02:31:45.854Z
 startTime: 2022-09-29T01:48:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
