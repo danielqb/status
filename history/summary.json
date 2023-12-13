@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/normograma.dian.gov.co.ico",
     "slug": "dian-compilacion-juridica",
     "status": "up",
-    "uptime": "96.44%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
@@ -609,18 +609,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.57%",
-    "time": 1701,
-    "timeDay": 2056,
-    "timeWeek": 1722,
-    "timeMonth": 1803,
-    "timeYear": 1769,
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "99.58%",
+    "time": 1700,
+    "timeDay": 1386,
+    "timeWeek": 1717,
+    "timeMonth": 1804,
+    "timeYear": 1768,
     "dailyMinutesDown": {
+      "2023-12-13": 1,
       "2023-12-10": 16,
       "2023-12-08": 71,
       "2023-12-06": 36,
@@ -687,8 +688,7 @@
       "2023-08-20": 19,
       "2023-08-18": 31,
       "2023-08-17": 24,
-      "2023-08-16": 43,
-      "2023-08-10": 18
+      "2023-08-16": 43
     }
   }
 ]
