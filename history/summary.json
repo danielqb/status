@@ -87,7 +87,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "95.97%",
+    "uptimeYear": "96.00%",
     "time": 456,
     "timeDay": 372,
     "timeWeek": 390,
@@ -331,7 +331,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minciencias.gov.co.ico",
     "slug": "minciencia-portal",
     "status": "up",
-    "uptime": "87.70%",
+    "uptime": "87.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
@@ -480,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.psepagos.com.co.ico",
     "slug": "pse-pagos",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -573,18 +573,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 7,
     "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-14": 1
+      "2023-12-14": 115
     }
   },
   {
@@ -593,18 +593,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 7,
     "timeDay": 10,
     "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-14": 1
+      "2023-12-14": 115
     }
   },
   {
@@ -612,18 +612,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "99.57%",
-    "time": 1699,
-    "timeDay": 1105,
-    "timeWeek": 1600,
-    "timeMonth": 1803,
+    "uptimeYear": "99.58%",
+    "time": 1700,
+    "timeDay": 1331,
+    "timeWeek": 1617,
+    "timeMonth": 1805,
     "timeYear": 1769,
     "dailyMinutesDown": {
+      "2023-12-14": 1,
       "2023-12-10": 16,
       "2023-12-08": 71,
       "2023-12-06": 36,
@@ -690,8 +691,7 @@
       "2023-08-20": 19,
       "2023-08-18": 31,
       "2023-08-17": 24,
-      "2023-08-16": 43,
-      "2023-08-10": 18
+      "2023-08-16": 43
     }
   }
 ]
