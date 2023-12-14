@@ -87,12 +87,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "96.12%",
+    "uptimeYear": "96.13%",
     "time": 456,
     "timeDay": 372,
     "timeWeek": 390,
     "timeMonth": 324,
-    "timeYear": 400,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2023-11-30": 60,
       "2023-07-28": 947,
@@ -220,9 +220,9 @@
     "slug": "ccb-portal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 386,
     "timeDay": 341,
@@ -230,7 +230,6 @@
     "timeMonth": 349,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2023-12-14": 12,
       "2023-04-01": 71,
       "2023-03-29": 27,
       "2023-03-28": 52
@@ -574,18 +573,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "44.64%",
-    "uptimeWeek": "92.09%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.85%",
+    "uptimeDay": "34.86%",
+    "uptimeWeek": "90.69%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "99.82%",
     "time": 7,
     "timeDay": 2,
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-14": 797
+      "2023-12-14": 938
     }
   },
   {
@@ -594,18 +593,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "44.64%",
-    "uptimeWeek": "92.09%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.85%",
+    "uptimeDay": "34.86%",
+    "uptimeWeek": "90.69%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "99.82%",
     "time": 7,
     "timeDay": 10,
     "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-14": 797
+      "2023-12-14": 938
     }
   },
   {
@@ -613,18 +612,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "99.57%",
-    "time": 1700,
-    "timeDay": 1648,
-    "timeWeek": 1639,
-    "timeMonth": 1805,
-    "timeYear": 1770,
+    "uptimeYear": "99.58%",
+    "time": 1699,
+    "timeDay": 1502,
+    "timeWeek": 1608,
+    "timeMonth": 1798,
+    "timeYear": 1768,
     "dailyMinutesDown": {
+      "2023-12-14": 1,
       "2023-12-10": 16,
       "2023-12-08": 71,
       "2023-12-06": 36,
@@ -691,8 +691,7 @@
       "2023-08-20": 19,
       "2023-08-18": 31,
       "2023-08-17": 24,
-      "2023-08-16": 43,
-      "2023-08-10": 18
+      "2023-08-16": 43
     }
   }
 ]
