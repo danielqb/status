@@ -328,7 +328,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minciencias.gov.co.ico",
     "slug": "minciencia-portal",
     "status": "up",
-    "uptime": "87.73%",
+    "uptime": "87.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.31%",
     "uptimeMonth": "98.96%",
@@ -612,18 +612,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "99.57%",
-    "time": 1699,
-    "timeDay": 1481,
-    "timeWeek": 1537,
-    "timeMonth": 1698,
-    "timeYear": 1773,
+    "uptimeYear": "99.58%",
+    "time": 1701,
+    "timeDay": 2052,
+    "timeWeek": 1709,
+    "timeMonth": 1725,
+    "timeYear": 1775,
     "dailyMinutesDown": {
+      "2023-12-17": 1,
       "2023-12-14": 21,
       "2023-12-10": 16,
       "2023-12-08": 71,
@@ -691,7 +692,7 @@
       "2023-08-20": 19,
       "2023-08-18": 31,
       "2023-08-17": 24,
-      "2023-08-16": 43
+      "2023-08-16": 25
     }
   }
 ]
