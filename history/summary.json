@@ -610,18 +610,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "97.32%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.57%",
-    "time": 1710,
-    "timeDay": 1668,
-    "timeWeek": 1893,
-    "timeMonth": 1815,
-    "timeYear": 1794,
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "99.58%",
+    "time": 1711,
+    "timeDay": 1951,
+    "timeWeek": 1942,
+    "timeMonth": 1831,
+    "timeYear": 1795,
     "dailyMinutesDown": {
+      "2023-12-25": 1,
       "2023-12-24": 38,
       "2023-12-22": 16,
       "2023-12-20": 17,
@@ -689,8 +690,7 @@
       "2023-08-27": 20,
       "2023-08-25": 29,
       "2023-08-22": 83,
-      "2023-08-21": 32,
-      "2023-08-20": 19
+      "2023-08-21": 32
     }
   }
 ]
