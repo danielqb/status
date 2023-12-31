@@ -51,7 +51,7 @@
     "icon": "https://agendamientodigiturno.dian.gov.co/favicon.ico",
     "slug": "dian-agendamiento",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -239,10 +239,10 @@
     "url": "https://linea.ccb.org.co/apprenovaciones/index.html#!/",
     "icon": "https://icons.duckduckgo.com/ip3/linea.ccb.org.co.ico",
     "slug": "ccb-transacciones",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.73%",
     "time": 347,
@@ -331,7 +331,7 @@
     "slug": "minciencia-portal",
     "status": "up",
     "uptime": "87.80%",
-    "uptimeDay": "58.16%",
+    "uptimeDay": "63.87%",
     "uptimeWeek": "85.30%",
     "uptimeMonth": "94.10%",
     "uptimeYear": "85.15%",
@@ -616,9 +616,9 @@
     "slug": "test1",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.57%",
     "time": 1710,
     "timeDay": 2056,
@@ -626,7 +626,6 @@
     "timeMonth": 1836,
     "timeYear": 1802,
     "dailyMinutesDown": {
-      "2023-12-31": 12,
       "2023-12-30": 18,
       "2023-12-29": 20,
       "2023-12-28": 79,
@@ -696,7 +695,8 @@
       "2023-09-08": 19,
       "2023-09-02": 59,
       "2023-08-30": 18,
-      "2023-08-27": 20
+      "2023-08-27": 20,
+      "2023-08-25": 29
     }
   }
 ]
