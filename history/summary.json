@@ -330,9 +330,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/minciencias.gov.co.ico",
     "slug": "minciencia-portal",
     "status": "up",
-    "uptime": "87.94%",
+    "uptime": "87.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.74%",
+    "uptimeWeek": "92.20%",
     "uptimeMonth": "94.10%",
     "uptimeYear": "85.15%",
     "time": 1156,
@@ -536,18 +536,16 @@
     "slug": "mercadolibre",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 347,
     "timeWeek": 391,
     "timeMonth": 443,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2024-01-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wplay",
@@ -616,18 +614,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1704,
-    "timeDay": 2324,
-    "timeWeek": 1551,
-    "timeMonth": 1742,
+    "timeDay": 2348,
+    "timeWeek": 1548,
+    "timeMonth": 1730,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2024-01-06": 1,
       "2024-01-04": 20,
       "2024-01-02": 17,
       "2023-12-31": 18,
@@ -697,8 +696,7 @@
       "2023-09-14": 17,
       "2023-09-11": 76,
       "2023-09-09": 16,
-      "2023-09-08": 19,
-      "2023-09-02": 59
+      "2023-09-08": 19
     }
   }
 ]
