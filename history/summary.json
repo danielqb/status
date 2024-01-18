@@ -617,17 +617,16 @@
     "slug": "test1",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.57%",
     "time": 1705,
     "timeDay": 1688,
     "timeWeek": 1628,
     "timeMonth": 1686,
     "timeYear": 1812,
     "dailyMinutesDown": {
-      "2024-01-17": 11,
       "2024-01-16": 17,
       "2024-01-15": 43,
       "2024-01-14": 25,
@@ -699,7 +698,7 @@
       "2023-09-22": 16,
       "2023-09-21": 40,
       "2023-09-20": 25,
-      "2023-09-19": 17
+      "2023-09-19": 40
     }
   }
 ]
