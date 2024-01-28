@@ -277,7 +277,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.34%",
     "time": 194,
     "timeDay": 0,
     "timeWeek": 158,
@@ -330,7 +330,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minciencias.gov.co.ico",
     "slug": "minciencia-portal",
     "status": "up",
-    "uptime": "88.48%",
+    "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.62%",
@@ -614,16 +614,16 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "98.90%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "98.98%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1696,
-    "timeDay": 1824,
-    "timeWeek": 1648,
-    "timeMonth": 1589,
+    "timeDay": 1510,
+    "timeWeek": 1655,
+    "timeMonth": 1591,
     "timeYear": 1814,
     "dailyMinutesDown": {
       "2024-01-28": 21,
@@ -698,8 +698,7 @@
       "2023-09-29": 21,
       "2023-09-28": 35,
       "2023-09-26": 21,
-      "2023-09-24": 23,
-      "2023-09-23": 23
+      "2023-09-24": 23
     }
   }
 ]
