@@ -330,7 +330,7 @@
     "slug": "minciencia-portal",
     "status": "up",
     "uptime": "88.52%",
-    "uptimeDay": "89.56%",
+    "uptimeDay": "95.66%",
     "uptimeWeek": "96.64%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "85.08%",
@@ -615,19 +615,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "98.68%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1700,
-    "timeDay": 2125,
-    "timeWeek": 1829,
-    "timeMonth": 1627,
+    "timeDay": 2017,
+    "timeWeek": 1814,
+    "timeMonth": 1625,
     "timeYear": 1821,
     "dailyMinutesDown": {
-      "2024-01-31": 16,
+      "2024-01-31": 17,
       "2024-01-30": 20,
       "2024-01-28": 43,
       "2024-01-27": 39,
@@ -699,7 +699,7 @@
       "2023-10-02": 26,
       "2023-09-30": 17,
       "2023-09-29": 21,
-      "2023-09-28": 35
+      "2023-09-28": 18
     }
   }
 ]
