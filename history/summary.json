@@ -328,9 +328,9 @@
     "url": "https://minciencias.gov.co/",
     "icon": "https://icons.duckduckgo.com/ip3/minciencias.gov.co.ico",
     "slug": "minciencia-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "88.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.64%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "85.08%",
@@ -340,6 +340,7 @@
     "timeMonth": 1074,
     "timeYear": 1145,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2024-01-30": 268,
       "2024-01-29": 70,
       "2023-12-31": 121,
@@ -617,17 +618,16 @@
     "slug": "test1",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.57%",
     "time": 1699,
     "timeDay": 1903,
     "timeWeek": 1788,
     "timeMonth": 1628,
     "timeYear": 1821,
     "dailyMinutesDown": {
-      "2024-02-01": 12,
       "2024-01-31": 37,
       "2024-01-30": 20,
       "2024-01-28": 43,
@@ -699,7 +699,8 @@
       "2023-10-04": 37,
       "2023-10-02": 26,
       "2023-09-30": 17,
-      "2023-09-29": 21
+      "2023-09-29": 21,
+      "2023-09-28": 18
     }
   }
 ]
