@@ -297,7 +297,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.colombiacompra.gov.co.ico",
     "slug": "gov-co-colombia-compra",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.54%",
@@ -619,18 +619,19 @@
     "url": "https://quarterbacksystems.com/en_US/page/status",
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.84%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1701,
-    "timeDay": 2288,
-    "timeWeek": 1889,
-    "timeMonth": 1661,
-    "timeYear": 1825,
+    "timeDay": 2103,
+    "timeWeek": 1885,
+    "timeMonth": 1660,
+    "timeYear": 1824,
     "dailyMinutesDown": {
+      "2024-02-03": 1,
       "2024-01-31": 37,
       "2024-01-30": 20,
       "2024-01-28": 43,
@@ -702,8 +703,7 @@
       "2023-10-04": 37,
       "2023-10-02": 26,
       "2023-09-30": 17,
-      "2023-09-29": 21,
-      "2023-09-28": 18
+      "2023-09-29": 21
     }
   }
 ]
