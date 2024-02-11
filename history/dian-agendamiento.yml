@@ -1,7 +1,7 @@
 url: https://agendamientodigiturno.dian.gov.co/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-11T04:35:39.276Z
+status: up
+code: 200
+responseTime: 448
+lastUpdated: 2024-02-11T04:46:02.879Z
 startTime: 2022-09-27T02:54:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
