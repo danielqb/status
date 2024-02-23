@@ -69,8 +69,7 @@
       "2023-06-24": 181,
       "2023-04-13": 57,
       "2023-03-22": 55,
-      "2023-03-16": 38,
-      "2023-02-23": 19
+      "2023-03-16": 38
     }
   },
   {
@@ -276,18 +275,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sobreflex.certicamara.com.ico",
     "slug": "certicamara-sobreflex",
     "status": "down",
-    "uptime": "96.02%",
+    "uptime": "96.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.28%",
-    "uptimeYear": "95.09%",
+    "uptimeMonth": "41.04%",
+    "uptimeYear": "95.07%",
     "time": 190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 117,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-02-22": 1392,
+      "2024-02-23": 60,
+      "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -305,8 +305,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1288,
-      "2023-11-05": 44,
-      "2023-02-23": 18
+      "2023-11-05": 44
     }
   },
   {
@@ -459,7 +458,7 @@
     "timeDay": 790,
     "timeWeek": 410,
     "timeMonth": 346,
-    "timeYear": 2007,
+    "timeYear": 2011,
     "dailyMinutesDown": {
       "2023-11-18": 214,
       "2023-11-09": 36,
@@ -492,8 +491,7 @@
       "2023-03-06": 19,
       "2023-03-05": 15,
       "2023-03-02": 20,
-      "2023-03-01": 16,
-      "2023-02-23": 17
+      "2023-03-01": 16
     }
   },
   {
@@ -511,7 +509,7 @@
     "timeDay": 347,
     "timeWeek": 328,
     "timeMonth": 298,
-    "timeYear": 1827,
+    "timeYear": 1830,
     "dailyMinutesDown": {
       "2023-09-21": 18,
       "2023-09-10": 77,
@@ -547,7 +545,7 @@
     "timeDay": 108,
     "timeWeek": 82,
     "timeMonth": 419,
-    "timeYear": 328,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -565,7 +563,7 @@
     "timeDay": 537,
     "timeWeek": 362,
     "timeMonth": 593,
-    "timeYear": 537,
+    "timeYear": 538,
     "dailyMinutesDown": {}
   },
   {
@@ -583,7 +581,7 @@
     "timeDay": 187,
     "timeWeek": 154,
     "timeMonth": 173,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -645,7 +643,7 @@
     "timeDay": 3332,
     "timeWeek": 1869,
     "timeMonth": 1844,
-    "timeYear": 1844,
+    "timeYear": 1843,
     "dailyMinutesDown": {
       "2024-02-22": 37,
       "2024-02-21": 25,
