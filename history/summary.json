@@ -266,10 +266,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/sobreflex.certicamara.com.ico",
     "slug": "certicamara-sobreflex",
     "status": "up",
-    "uptime": "83.99%",
+    "uptime": "84.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.36%",
-    "uptimeMonth": "19.18%",
+    "uptimeWeek": "78.11%",
+    "uptimeMonth": "19.35%",
     "uptimeYear": "74.66%",
     "time": 188,
     "timeDay": 317,
@@ -678,9 +678,9 @@
     "slug": "test1",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "78.96%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "78.98%",
     "uptimeYear": "97.87%",
     "time": 1744,
     "timeDay": 850,
@@ -688,7 +688,7 @@
     "timeMonth": 1177,
     "timeYear": 1783,
     "dailyMinutesDown": {
-      "2024-05-12": 32,
+      "2024-05-12": 20,
       "2024-05-11": 26,
       "2024-05-10": 21,
       "2024-05-08": 23,
@@ -777,7 +777,7 @@
       "2023-12-08": 71,
       "2023-12-06": 36,
       "2023-12-05": 26,
-      "2023-12-04": 44
+      "2023-12-04": 64
     }
   }
 ]
