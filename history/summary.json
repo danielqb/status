@@ -268,8 +268,8 @@
     "status": "up",
     "uptime": "84.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.67%",
-    "uptimeMonth": "22.47%",
+    "uptimeWeek": "92.38%",
+    "uptimeMonth": "22.64%",
     "uptimeYear": "74.66%",
     "time": 188,
     "timeDay": 140,
@@ -414,7 +414,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minciencias.gov.co.ico",
     "slug": "minciencia-portal",
     "status": "up",
-    "uptime": "90.47%",
+    "uptime": "90.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -678,9 +678,9 @@
     "slug": "test1",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "78.98%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "79.01%",
     "uptimeYear": "97.87%",
     "time": 1748,
     "timeDay": 1194,
@@ -688,7 +688,7 @@
     "timeMonth": 1158,
     "timeYear": 1782,
     "dailyMinutesDown": {
-      "2024-05-13": 37,
+      "2024-05-13": 25,
       "2024-05-12": 20,
       "2024-05-11": 26,
       "2024-05-10": 21,
@@ -778,7 +778,7 @@
       "2023-12-08": 71,
       "2023-12-06": 36,
       "2023-12-05": 26,
-      "2023-12-04": 18
+      "2023-12-04": 44
     }
   }
 ]
