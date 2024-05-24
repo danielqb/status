@@ -269,7 +269,7 @@
     "uptime": "84.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.49%",
+    "uptimeMonth": "56.53%",
     "uptimeYear": "74.66%",
     "time": 186,
     "timeDay": 117,
@@ -576,19 +576,19 @@
     "url": "https://www.las2orillas.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.las2orillas.co.ico",
     "slug": "las2orillas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 351,
-    "timeDay": 114,
-    "timeWeek": 1153,
-    "timeMonth": 487,
-    "timeYear": 328,
+    "timeDay": 84,
+    "timeWeek": 1016,
+    "timeMonth": 473,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-05-24": 1
+      "2024-05-24": 15
     }
   },
   {
