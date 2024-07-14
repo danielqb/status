@@ -1,7 +1,7 @@
 url: https://minciencias.gov.co/
-status: down
-code: 503
-responseTime: 14119
-lastUpdated: 2024-07-14T13:50:12.934Z
+status: up
+code: 200
+responseTime: 1081
+lastUpdated: 2024-07-14T17:55:42.449Z
 startTime: 2022-09-27T02:55:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
