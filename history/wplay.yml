@@ -1,7 +1,7 @@
 url: https://www.wplay.co/
-status: up
-code: 200
-responseTime: 235
-lastUpdated: 2024-09-01T23:10:09.398Z
+status: down
+code: 503
+responseTime: 1849
+lastUpdated: 2024-09-01T23:51:57.924Z
 startTime: 2022-09-27T02:55:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
