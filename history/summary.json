@@ -112,18 +112,19 @@
     "icon": "https://www.bancolombia.com/contenthandler/!ut/p/digest!f4T4EHAw18C9yOrLkKCojQ/dav/fs-type1/themes/PersonasTheme/images/favicon.ico",
     "slug": "bancolombia-portal",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.67%",
+    "uptimeDay": "85.47%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.64%",
     "time": 807,
     "timeDay": 5623,
     "timeWeek": 3323,
     "timeMonth": 1897,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2024-12-07": 104,
+      "2024-12-08": 101,
+      "2024-12-07": 107,
       "2024-12-01": 59,
       "2024-11-24": 113,
       "2024-11-23": 36,
@@ -283,7 +284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sobreflex.certicamara.com.ico",
     "slug": "certicamara-sobreflex",
     "status": "up",
-    "uptime": "88.07%",
+    "uptime": "88.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -396,18 +397,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.colombiacompra.gov.co.ico",
     "slug": "gov-co-colombia-compra",
     "status": "down",
-    "uptime": "76.85%",
+    "uptime": "76.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.28%",
+    "uptimeYear": "49.26%",
     "time": 2169,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2294,
     "dailyMinutesDown": {
-      "2024-12-07": 1437,
+      "2024-12-08": 102,
+      "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -597,8 +599,7 @@
       "2024-02-15": 17,
       "2024-02-01": 25,
       "2024-01-07": 127,
-      "2024-01-06": 51,
-      "2023-12-09": 16
+      "2024-01-06": 51
     }
   },
   {
@@ -641,8 +642,7 @@
       "2023-12-31": 121,
       "2023-12-30": 1361,
       "2023-12-19": 650,
-      "2023-12-15": 372,
-      "2023-12-09": 82
+      "2023-12-15": 372
     }
   },
   {
