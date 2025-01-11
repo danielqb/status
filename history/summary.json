@@ -111,18 +111,19 @@
     "url": "https://www.bancolombia.com/",
     "icon": "https://www.bancolombia.com/contenthandler/!ut/p/digest!f4T4EHAw18C9yOrLkKCojQ/dav/fs-type1/themes/PersonasTheme/images/favicon.ico",
     "slug": "bancolombia-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "94.71%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "94.70%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "99.38%",
-    "time": 2022,
+    "time": 2024,
     "timeDay": 6431,
     "timeWeek": 6395,
     "timeMonth": 6416,
     "timeYear": 2472,
     "dailyMinutesDown": {
+      "2025-01-11": 1,
       "2025-01-10": 42,
       "2025-01-09": 96,
       "2025-01-08": 55,
@@ -164,7 +165,7 @@
       "2024-04-17": 18,
       "2024-03-26": 101,
       "2024-03-25": 25,
-      "2024-01-16": 178
+      "2024-01-16": 150
     }
   },
   {
@@ -431,7 +432,7 @@
     "uptime": "74.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.43%",
+    "uptimeMonth": "24.73%",
     "uptimeYear": "42.18%",
     "time": 2153,
     "timeDay": 1700,
@@ -849,7 +850,7 @@
     "timeDay": 305,
     "timeWeek": 337,
     "timeMonth": 313,
-    "timeYear": 1276,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2024-08-09": 872,
       "2024-08-08": 200,
