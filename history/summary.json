@@ -193,19 +193,19 @@
     "url": "https://sucursalempresas.transaccionesbancolombia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sucursalempresas.transaccionesbancolombia.com.ico",
     "slug": "bancolombia-empresas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 216,
-    "timeWeek": 221,
-    "timeMonth": 210,
-    "timeYear": 189,
+    "timeDay": 175,
+    "timeWeek": 210,
+    "timeMonth": 207,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 26
     }
   },
   {
@@ -437,7 +437,7 @@
     "uptime": "74.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.00%",
+    "uptimeMonth": "33.06%",
     "uptimeYear": "42.18%",
     "time": 2150,
     "timeDay": 1026,
