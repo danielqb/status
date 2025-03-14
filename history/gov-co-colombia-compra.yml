@@ -1,7 +1,7 @@
 url: https://www.colombiacompra.gov.co/
-status: down
-code: 503
-responseTime: 56
-lastUpdated: 2025-03-14T08:39:20.190Z
+status: up
+code: 200
+responseTime: 445
+lastUpdated: 2025-03-14T08:51:57.070Z
 startTime: 2022-09-27T02:55:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
