@@ -402,7 +402,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.88%",
+    "uptimeYear": "93.91%",
     "time": 182,
     "timeDay": 174,
     "timeWeek": 218,
@@ -432,8 +432,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -444,7 +443,7 @@
     "status": "up",
     "uptime": "77.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.35%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "41.88%",
     "time": 1895,
@@ -689,7 +688,7 @@
     "uptimeYear": "99.47%",
     "time": 1401,
     "timeDay": 1537,
-    "timeWeek": 1545,
+    "timeWeek": 1569,
     "timeMonth": 1555,
     "timeYear": 1357,
     "dailyMinutesDown": {
@@ -721,7 +720,7 @@
     "uptimeYear": "99.98%",
     "time": 653,
     "timeDay": 508,
-    "timeWeek": 3784,
+    "timeWeek": 4056,
     "timeMonth": 1847,
     "timeYear": 724,
     "dailyMinutesDown": {
@@ -743,7 +742,7 @@
     "uptimeYear": "99.99%",
     "time": 526,
     "timeDay": 312,
-    "timeWeek": 3674,
+    "timeWeek": 3894,
     "timeMonth": 1640,
     "timeYear": 574,
     "dailyMinutesDown": {
@@ -764,7 +763,7 @@
     "uptimeYear": "99.99%",
     "time": 297,
     "timeDay": 114,
-    "timeWeek": 147,
+    "timeWeek": 158,
     "timeMonth": 133,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -785,7 +784,7 @@
     "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 470,
-    "timeWeek": 478,
+    "timeWeek": 464,
     "timeMonth": 526,
     "timeYear": 537,
     "dailyMinutesDown": {
@@ -805,7 +804,7 @@
     "uptimeYear": "99.97%",
     "time": 201,
     "timeDay": 87,
-    "timeWeek": 107,
+    "timeWeek": 110,
     "timeMonth": 147,
     "timeYear": 204,
     "dailyMinutesDown": {
@@ -827,7 +826,7 @@
     "uptimeYear": "100.00%",
     "time": 3,
     "timeDay": 2,
-    "timeWeek": 4,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 3,
     "dailyMinutesDown": {}
@@ -856,18 +855,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quarterbacksystems.com.ico",
     "slug": "test1",
     "status": "down",
-    "uptime": "94.14%",
+    "uptime": "94.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.34%",
+    "uptimeYear": "85.32%",
     "time": 916,
     "timeDay": 515,
     "timeWeek": 524,
     "timeMonth": 517,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-04-15": 1393,
+      "2025-04-16": 99,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
