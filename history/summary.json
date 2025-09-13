@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2025-09-13": 56,
+      "2025-09-13": 80,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 300,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-09-13": 56,
+      "2025-09-13": 80,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -542,9 +542,9 @@
     "slug": "bancolombia-empresas",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 214,
     "timeDay": 189,
@@ -552,7 +552,7 @@
     "timeMonth": 240,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-09-13": 0,
+      "2025-09-13": 25,
       "2025-02-11": 19,
       "2025-01-13": 26
     }
@@ -696,7 +696,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "68.95%",
+    "uptimeYear": "68.96%",
     "time": 1668,
     "timeDay": 1926,
     "timeWeek": 1445,
@@ -1026,7 +1026,7 @@
     "timeMonth": 745,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2025-09-13": 57,
+      "2025-09-13": 81,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
