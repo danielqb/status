@@ -1,7 +1,7 @@
 url: https://www.bancolombia.com/
-status: down
-code: 503
-responseTime: 72
-lastUpdated: 2025-12-03T16:18:06.508Z
+status: up
+code: 200
+responseTime: 1184
+lastUpdated: 2025-12-03T17:40:08.107Z
 startTime: 2022-09-27T02:54:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
