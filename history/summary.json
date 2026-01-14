@@ -4,10 +4,10 @@
     "url": "https://www.dian.gov.co/",
     "icon": "https://www.dian.gov.co/imagenes/favicon.ico",
     "slug": "dian-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.36%",
-    "uptimeWeek": "96.52%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "96.51%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.27%",
     "time": 849,
@@ -16,7 +16,7 @@
     "timeMonth": 732,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2026-01-14": 82,
+      "2026-01-14": 83,
       "2026-01-13": 63,
       "2026-01-12": 154,
       "2026-01-10": 23,
@@ -92,8 +92,7 @@
       "2025-03-12": 16,
       "2025-03-11": 24,
       "2025-03-07": 51,
-      "2025-03-04": 37,
-      "2025-03-01": 21
+      "2025-03-04": 37
     }
   },
   {
@@ -101,9 +100,9 @@
     "url": "https://muisca.dian.gov.co/",
     "icon": "https://muisca.dian.gov.co/favicon.ico",
     "slug": "dian-muisca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "94.43%",
+    "uptimeDay": "94.41%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "96.01%",
     "uptimeYear": "99.15%",
@@ -188,7 +187,7 @@
       "2025-03-12": 15,
       "2025-03-11": 23,
       "2025-03-07": 50,
-      "2025-03-04": 35
+      "2025-03-04": 18
     }
   },
   {
@@ -197,18 +196,18 @@
     "icon": "https://agendamientodigiturno.dian.gov.co/favicon.ico",
     "slug": "dian-agendamiento",
     "status": "down",
-    "uptime": "79.57%",
+    "uptime": "79.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.15%",
+    "uptimeYear": "33.14%",
     "time": 525,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-01-14": 1167,
+      "2026-01-14": 1184,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -559,7 +558,7 @@
     "timeMonth": 301,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-01-14": 1167,
+      "2026-01-14": 1184,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -1184,7 +1183,7 @@
     "timeMonth": 892,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2026-01-14": 1168,
+      "2026-01-14": 1184,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
