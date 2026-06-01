@@ -5,11 +5,11 @@
     "icon": "https://www.dian.gov.co/imagenes/favicon.ico",
     "slug": "dian-portal",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.78%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.30%",
     "time": 811,
     "timeDay": 403,
     "timeWeek": 509,
@@ -81,7 +81,7 @@
       "2026-03-12": 28,
       "2026-04-18": 64,
       "2026-05-02": 103,
-      "2026-06-01": 6
+      "2026-06-01": 125
     }
   },
   {
@@ -90,11 +90,11 @@
     "icon": "https://muisca.dian.gov.co/favicon.ico",
     "slug": "dian-muisca",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.10%",
+    "uptime": "99.72%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.08%",
     "time": 637,
     "timeDay": 498,
     "timeWeek": 527,
@@ -165,7 +165,7 @@
       "2026-03-27": 298,
       "2026-04-18": 64,
       "2026-05-02": 102,
-      "2026-06-01": 1
+      "2026-06-01": 120
     }
   },
   {
@@ -185,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 134,
+      "2026-06-01": 253,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -624,7 +624,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2026-06-01": 134,
+      "2026-06-01": 253,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1085,7 +1085,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.66%",
+    "uptimeYear": "81.63%",
     "time": 197,
     "timeDay": 18,
     "timeWeek": 55,
@@ -1094,7 +1094,7 @@
     "dailyMinutesDown": {
       "2025-11-04": 799,
       "2026-03-13": 64,
-      "2026-06-01": 134,
+      "2026-06-01": 253,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1423,8 +1423,8 @@
     "uptime": "67.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.98%",
-    "uptimeYear": "7.16%",
+    "uptimeMonth": "84.25%",
+    "uptimeYear": "7.18%",
     "time": 633,
     "timeDay": 769,
     "timeWeek": 801,
