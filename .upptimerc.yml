@@ -81,6 +81,13 @@ sites:
     url: https://www.colpensiones.gov.co/
   - name: Ministerio de Trabajo
     url: https://www.mintrabajo.gov.co/
+    # El sitio responde 200 de forma consistente desde redes normales, pero
+    # bloquea la conexión (code 0) específicamente desde los runners de
+    # GitHub Actions (confirmado en 2 ciclos de chequeo tras el despliegue).
+    # Se usa Globalping para chequear desde una ubicación con IP no filtrada
+    # por el firewall del sitio, en vez del runner de GitHub.
+    type: globalping
+    location: Colombia
 
   # --- Supervisión / registro empresarial ---
   - name: Superintendencia Financiera
@@ -113,6 +120,12 @@ sites:
       - 403
   - name: Banco de Bogotá
     url: https://www.bancodebogota.com/
+    # Mismo bloqueo WAF a tráfico automatizado (403) observado en Davivienda
+    # y BBVA Colombia al chequear desde los runners de GitHub Actions.
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Banco Popular
     url: https://www.bancopopular.com.co/
   - name: Nequi
