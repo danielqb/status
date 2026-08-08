@@ -3,47 +3,140 @@ owner: danielqb # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
+  # --- DIAN (impuestos / facturación electrónica) ---
   - name: DIAN - Portal
     url: https://www.dian.gov.co/
     icon: https://www.dian.gov.co/imagenes/favicon.ico
   - name: DIAN - Muisca
     url: https://muisca.dian.gov.co/
     icon: https://muisca.dian.gov.co/favicon.ico
-  - name: DIAN - Agendamiento
-    url: https://agendamientodigiturno.dian.gov.co/
-    icon: https://agendamientodigiturno.dian.gov.co/favicon.ico
+  - name: DIAN - Agendamiento de Citas
+    # URL anterior (agendamientodigiturno.dian.gov.co) ya no existe (NXDOMAIN).
+    # Reemplazada por la página vigente de agendamiento en el portal de DIAN.
+    url: https://www.dian.gov.co/atencionciudadano/Agendamiento-de-Citas/Paginas/Inicio.aspx
   - name: DIAN - Compilación Jurídica
     url: https://normograma.dian.gov.co/dian/
+
+  # --- Bancolombia ---
   - name: Bancolombia - Portal
     url: https://www.bancolombia.com/
     icon: https://www.bancolombia.com/contenthandler/!ut/p/digest!f4T4EHAw18C9yOrLkKCojQ/dav/fs-type1/themes/PersonasTheme/images/favicon.ico
   - name: Bancolombia - Personas
     url: https://sucursalpersonas.transaccionesbancolombia.com/
+    # El endpoint redirige a svpersonas.apps.bancolombia.com, que bloquea
+    # tráfico automatizado (WAF) devolviendo 403 aunque el servicio esté up.
+    # Se acepta 403 como "up" para evitar falsas alertas de caída.
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 403
   - name: Bancolombia - Empresas
+    # "Bancolombia - Pyme" apuntaba a sucursalvirtualpyme.bancolombia.com,
+    # dominio que ya no existe (NXDOMAIN): ese canal fue unificado con la
+    # Sucursal Virtual Empresas, así que se elimina el duplicado (se mantiene
+    # el nombre/slug original para conservar el histórico de uptime).
     url: https://sucursalempresas.transaccionesbancolombia.com/
-  - name: Bancolombia - Pyme
-    url: https://sucursalvirtualpyme.bancolombia.com/#/login
+
+  # --- Cámara de Comercio de Bogotá ---
   - name: CCB - Portal
     url: https://www.ccb.org.co/
   - name: CCB - Transacciones
     url: https://linea.ccb.org.co/apprenovaciones/index.html#!/
-  - name: Certicamara - Sobreflex
-    url: https://sobreflex.certicamara.com/sobreflex/IActualizarDatos.aspx
+
+  # --- Certificación digital / facturación electrónica ---
+  - name: Certicamara - Portal
+    # "Certicamara - Sobreflex" apuntaba a un formulario ASPX interno
+    # (sobreflex.../IActualizarDatos.aspx) que responde 503 permanentemente
+    # sin sesión activa, generando una alerta de caída de ~1 año seguido.
+    # Se reemplaza por el portal público, representativo de la disponibilidad
+    # del servicio de certificación digital.
+    url: https://certicamara.com/
+
+  # --- Compras públicas / gov.co ---
   - name: GovCo - ColombiaCompra
     url: https://www.colombiacompra.gov.co/
+  - name: GovCo - Portal
+    url: https://www.gov.co/
+
+  # --- Ciencia, tecnología (beneficios tributarios I+D) ---
   - name: Minciencia - Portal
     url: https://minciencias.gov.co/
+
+  # --- Pagos / PSE ---
   - name: PSE - Portal
     url: https://www.pse.com.co/persona
   - name: PSE - Pagos
     url: https://portal.psepagos.com.co/inicio
+
+  # --- Nómina electrónica / seguridad social (PILA) ---
+  - name: Aportes en Línea (PILA)
+    url: https://www.aportesenlinea.com/
+  - name: UGPP
+    url: https://www.ugpp.gov.co/
+  - name: ADRES
+    url: https://www.adres.gov.co/
+  - name: Colpensiones
+    url: https://www.colpensiones.gov.co/
+  - name: Ministerio de Trabajo
+    url: https://www.mintrabajo.gov.co/
+
+  # --- Supervisión / registro empresarial ---
+  - name: Superintendencia Financiera
+    url: https://www.superfinanciera.gov.co/
+  - name: Superintendencia de Sociedades
+    url: https://www.supersociedades.gov.co/
+  - name: RUES - Registro Único Empresarial
+    url: https://www.rues.org.co/
+  - name: RUNT
+    url: https://www.runt.com.co/
+  - name: SIMIT
+    url: https://www.simit.org.co/
+
+  # --- Banca central / otros bancos relevantes ---
+  - name: Banco de la República
+    url: https://www.banrep.gov.co/
+  - name: Davivienda
+    url: https://www.davivienda.com/
+    # Bloquea tráfico automatizado con 403 (WAF/Akamai) de forma consistente
+    # incluso con distintos User-Agents; se acepta como "up".
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: BBVA Colombia
+    url: https://www.bbva.com.co/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+  - name: Banco de Bogotá
+    url: https://www.bancodebogota.com/
+  - name: Banco Popular
+    url: https://www.bancopopular.com.co/
+  - name: Nequi
+    url: https://www.nequi.com.co/
+  - name: Daviplata
+    url: https://www.daviplata.com/
+  - name: DataCrédito
+    url: https://www.datacredito.com.co/
+
+  # --- Telecom (infraestructura crítica de operación) ---
+  - name: Claro Colombia
+    url: https://www.claro.com.co/
+  - name: ETB
+    url: https://www.etb.com/
+
+  # --- Medios / comercio electrónico ---
   - name: Las2orillas
     url: https://www.las2orillas.co/
   - name: Mercadolibre
     url: https://www.mercadolibre.com.co/
   - name: Wplay
     url: https://www.wplay.co/
-    
+
+  # --- Chequeos de infraestructura base (referencia/control, DNS público) ---
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
@@ -52,10 +145,6 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-    
-
-  - name: test1
-    url: https://quarterbacksystems.com/en_US/page/status
 
 status-website:
   # cname: demo.upptime.js.org
