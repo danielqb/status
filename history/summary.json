@@ -13,7 +13,7 @@
     "time": 705,
     "timeDay": 578,
     "timeWeek": 720,
-    "timeMonth": 708,
+    "timeMonth": 711,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-08-19": 24,
@@ -91,7 +91,7 @@
     "time": 625,
     "timeDay": 490,
     "timeWeek": 691,
-    "timeMonth": 585,
+    "timeMonth": 579,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-08-19": 23,
@@ -188,7 +188,7 @@
     "time": 363,
     "timeDay": 443,
     "timeWeek": 467,
-    "timeMonth": 411,
+    "timeMonth": 419,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-09-24": 141,
@@ -216,7 +216,7 @@
     "time": 604,
     "timeDay": 944,
     "timeWeek": 717,
-    "timeMonth": 674,
+    "timeMonth": 685,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2025-10-27": 26,
@@ -235,12 +235,12 @@
     "uptime": "68.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.76%",
-    "uptimeYear": "2.06%",
+    "uptimeMonth": "22.98%",
+    "uptimeYear": "2.07%",
     "time": 311,
     "timeDay": 273,
     "timeWeek": 211,
-    "timeMonth": 139,
+    "timeMonth": 142,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2026-08-08": 700,
@@ -599,8 +599,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2025-08-17": 1440,
-      "2025-08-16": 1440
+      "2025-08-17": 1440
     }
   },
   {
@@ -617,7 +616,7 @@
     "time": 234,
     "timeDay": 199,
     "timeWeek": 259,
-    "timeMonth": 224,
+    "timeMonth": 226,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-09-13": 497,
@@ -638,7 +637,7 @@
     "time": 330,
     "timeDay": 356,
     "timeWeek": 663,
-    "timeMonth": 428,
+    "timeMonth": 437,
     "timeYear": 340,
     "dailyMinutesDown": {}
   },
@@ -656,7 +655,7 @@
     "time": 304,
     "timeDay": 308,
     "timeWeek": 251,
-    "timeMonth": 277,
+    "timeMonth": 284,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2025-08-23": 69,
@@ -674,7 +673,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/certicamara.com.ico",
     "slug": "certicamara-portal",
     "status": "up",
-    "uptime": "85.50%",
+    "uptime": "85.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -700,7 +699,7 @@
     "time": 1678,
     "timeDay": 784,
     "timeWeek": 1022,
-    "timeMonth": 943,
+    "timeMonth": 955,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2025-09-01": 25,
@@ -746,7 +745,7 @@
     "time": 1214,
     "timeDay": 714,
     "timeWeek": 789,
-    "timeMonth": 753,
+    "timeMonth": 758,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-10-17": 234,
@@ -778,7 +777,7 @@
     "time": 976,
     "timeDay": 281,
     "timeWeek": 465,
-    "timeMonth": 451,
+    "timeMonth": 461,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-08-22": 65,
@@ -821,7 +820,7 @@
     "time": 840,
     "timeDay": 253,
     "timeWeek": 527,
-    "timeMonth": 391,
+    "timeMonth": 399,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-08-22": 16,
@@ -964,11 +963,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.supersociedades.gov.co.ico",
     "slug": "superintendencia-de-sociedades",
     "status": "up",
-    "uptime": "93.74%",
+    "uptime": "93.79%",
     "uptimeDay": "96.04%",
     "uptimeWeek": "93.81%",
-    "uptimeMonth": "93.74%",
-    "uptimeYear": "93.74%",
+    "uptimeMonth": "93.79%",
+    "uptimeYear": "93.79%",
     "time": 2033,
     "timeDay": 2077,
     "timeWeek": 2072,
@@ -1026,11 +1025,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.simit.org.co.ico",
     "slug": "simit",
     "status": "up",
-    "uptime": "90.33%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "90.07%",
-    "uptimeMonth": "90.33%",
-    "uptimeYear": "90.33%",
+    "uptime": "90.52%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "90.18%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "90.52%",
     "time": 676,
     "timeDay": 545,
     "timeWeek": 715,
@@ -1044,7 +1043,7 @@
       "2026-08-12": 105,
       "2026-08-13": 166,
       "2026-08-14": 50,
-      "2026-08-15": 48
+      "2026-08-15": 37
     }
   },
   {
@@ -1107,11 +1106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancodebogota.com.ico",
     "slug": "banco-de-bogota",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 388,
     "timeDay": 257,
     "timeWeek": 390,
@@ -1235,15 +1234,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.las2orillas.co.ico",
     "slug": "las2orillas",
     "status": "up",
-    "uptime": "76.65%",
+    "uptime": "76.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.75%",
+    "uptimeYear": "77.94%",
     "time": 502,
     "timeDay": 75,
     "timeWeek": 110,
-    "timeMonth": 525,
+    "timeMonth": 537,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-11-18": 184,
@@ -1267,7 +1266,7 @@
     "time": 442,
     "timeDay": 393,
     "timeWeek": 526,
-    "timeMonth": 481,
+    "timeMonth": 486,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-10-31": 20,
@@ -1289,7 +1288,7 @@
     "time": 144,
     "timeDay": 73,
     "timeWeek": 62,
-    "timeMonth": 96,
+    "timeMonth": 97,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-08-13": 133
