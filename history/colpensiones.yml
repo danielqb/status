@@ -1,7 +1,7 @@
 url: https://www.colpensiones.gov.co/
-status: up
-code: 200
-responseTime: 770
-lastUpdated: 2026-08-30T00:55:57.417Z
+status: down
+code: 403
+responseTime: 156
+lastUpdated: 2026-08-30T22:39:41.958Z
 startTime: 2026-08-08T11:40:31.857Z
 generator: Upptime <https://github.com/upptime/upptime>
